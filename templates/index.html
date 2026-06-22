@@ -1,0 +1,73 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>UWE Course Chat</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+  </head>
+  <body>
+    <main class="shell">
+      <aside class="sidebar" aria-label="Course context">
+        <div class="course-hero">
+          <p class="eyebrow">Postgraduate course</p>
+          <h1>UWE MSc Data Science</h1>
+          <p class="course-status">Open for applications</p>
+          <p class="summary">Ask about entry requirements, fees, modules, careers, teaching, campus, and contact details.</p>
+        </div>
+
+        <section class="status-panel" aria-label="System status">
+          <p class="panel-title">Assistant status</p>
+          <div class="status-row">
+            <span>Neo4j</span>
+            <strong id="neo4jStatus">{{ "Connected" if status.neo4j else "Missing" }}</strong>
+          </div>
+          <div class="status-row">
+            <span>Groq</span>
+            <strong id="groqStatus">{{ "Ready" if status.groq else "API key needed" }}</strong>
+          </div>
+          <div class="status-row">
+            <span>Vectors</span>
+            <strong id="vectorStatus">{{ "Ready" if status.vector else "Run ingest" }}</strong>
+          </div>
+          <div class="status-row">
+            <span>Mode</span>
+            <strong id="modeStatus">{{ "Vector + Groq" if status.groq and status.vector else "Groq chat" if status.groq else "Graph answers" }}</strong>
+          </div>
+        </section>
+
+        <section class="quick-panel" aria-label="Suggested questions">
+          <p class="panel-title">Popular questions</p>
+          <button type="button" data-question="What are the entry requirements?">Entry requirements</button>
+          <button type="button" data-question="What modules will I study?">Modules</button>
+          <button type="button" data-question="How much are the fees?">Fees</button>
+          <button type="button" data-question="What jobs can graduates do?">Careers</button>
+          <button type="button" data-question="Where is the course taught?">Campus</button>
+        </section>
+      </aside>
+
+      <section class="chat" aria-label="Chat">
+        <header class="chat-header">
+          <div>
+            <p class="eyebrow">Course assistant</p>
+            <h2>Ask about MSc Data Science</h2>
+          </div>
+          <a class="course-link" href="https://courses.uwe.ac.uk/INB112/data-science" target="_blank" rel="noreferrer">View course page</a>
+        </header>
+
+        <div id="messages" class="messages" aria-live="polite">
+          <article class="message bot">
+            <p>I answer from the UWE MSc Data Science knowledge graph using semantic search when available, with simpler graph answers as a backup.</p>
+          </article>
+        </div>
+
+        <form id="chatForm" class="composer">
+          <textarea id="messageInput" rows="2" placeholder="Ask about entry requirements, fees, modules, careers..." aria-label="Message"></textarea>
+          <button type="submit" aria-label="Send message">Send</button>
+        </form>
+      </section>
+    </main>
+
+    <script src="{{ url_for('static', filename='app.js') }}"></script>
+  </body>
+</html>
