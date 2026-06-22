@@ -1,0 +1,136 @@
+MSc Data Science
+Entry year: 2026/27
+Course code: INB112
+Application: University
+Level: Postgraduate
+School: School of Computing and Creative Technologies
+Campus: Frenchay
+Duration: September start - one year full-time; two years part-time; January start - one year full-time.
+Delivery: Full-time; part-time; starts September and January
+Programme leader: Dr Paul Matthews; Dr Mahmoud Elbattah
+This course is open for applications.
+
+Accreditations and partnerships: BCS; Future Space.
+
+Work with us full or part time on our industry-focused data science master's, developing the skills you need to design and implement data science projects.
+
+About
+Why study data science?
+Bringing together skills in data management, analytics and artificial intelligence, data scientists work with organisations to draw competitive or efficiency-related insights from their data.
+It's a field that's expected to soon make up at least a quarter of all digital jobs, and has been highlighted as a major skills gap in the government's recent industrial strategy.
+
+Why UWE Bristol?
+If you're looking to specialise or upskill in this field, this master's will equip you to apply data science techniques in your current role and organisation, or to progress onto new work opportunities.
+Looking at the full data science pipeline, you'll learn to understand organisational requirements and ethical conduct; design research studies; and employ data engineering skills to gather, transform and clean small and large-scale data.
+Gain the skills and tools to design and implement data science projects and programmes to solve real business and societal issues.
+Undertake exploratory analysis, using statistics, machine learning and predictive modelling.
+Present and communicate results to stakeholders, and become adept at implementing production workflows and solutions.
+You'll work on live data science projects, using data and issues from your own company (if applicable) and those of our industrial partners.
+
+Where can it take me?
+The course has been developed as part of the Institute of Coding's University Learners employability initiative, to ensure it equips data scientists with the skills needed by industry.
+Your newly-acquired skills will set you up well for work as a data scientist, business analyst, data engineer or chief data officer.
+
+Entry
+Entry requirements
+We normally require an honours degree at 2:2 or equivalent in a relevant subject. Experience with quantitative methods and/or coding is highly recommended.
+Relevant subjects include: Computer Science, IT or other computing subjects, Maths, Statistics, any Engineering subject, any quantitative subject such as Physics, Chemistry, Business, Marketing, Economics, Psychology and Social Sciences.
+If you do not meet the above grade requirements but have at least 12 months relevant professional experience and/ or equivalent qualifications, we will consider you on an individual basis.
+Personal Statement
+You are required to complete a personal statement for this course. Please read the personal statement guidance carefully and make sure that you answer the questions on the postgraduate application form within the personal statement tabs, keeping to the advised word count.
+English Language Requirement
+International and EU applicants are required to have a minimum overall IELTS (Academic) score of 6.5 with 5.5 in each component, or approved equivalent.
+The University accepts a large number of UK and international qualifications in place of IELTS.
+How to apply
+Read more about postgraduate applications.
+Read more about international applications and key international deadline dates.
+For further information
+Email: Admissions@uwe.ac.uk
+Telephone: +44 (0)117 32 83333
+
+Structure
+Content
+The optional modules listed are those that are most likely to be available, but they may be subject to change.
+Core modules:
+Programming for Data Science
+Statistical Learning
+Data Science Masters Project
+Data Management Fundamentals
+Process and Practice in Data Science
+Integrative Team Project
+Optional modules:
+Machine Learning and Predictive Analytics
+Business Intelligence and Data Visualisation
+Programming Data Intensive Applications
+Scaling and Orchestration
+This structure is for full-time students only. Part-time students study the same modules but the delivery pattern will be different.
+The University continually enhances our offer by responding to feedback from our students and other stakeholders, ensuring the curriculum is kept up to date and our graduates are equipped with the knowledge and skills they need for the real world. This may result in changes to the course. If changes to your course are approved, we'll inform you.
+
+Learning and Teaching
+The course is taught through a mix of context, theory and hands-on practice, with both individual and group learning activities built in.
+Studying the role of a data scientist, you'll become familiar with areas such as ethical practice and data for sustainable development; research methods, data gathering and exploratory data analysis; and programming principles including R, Python and HTML/Javascript.
+Learn to use statistical inference, modelling and analysis, machine learning and predictive analytics.
+Understand how to store, process and analyse big data.
+Build skills in evidence-based communication, argumentation and data visualisation.
+Implement data science projects from end to end, using real data to address business, health and sustainability problems.
+Gain exposure to a range of current data science methods and tools.
+Take part in a substantial interdisciplinary group project.
+You'll have access to extracurricular opportunities such as team competitions, data hackathons and paid projects for external clients through our enterprise studio network, The Foundry.
+Mentoring will be available for self-organised student teams taking part in data science competitions and hackathons.
+
+Study time
+Full-time (over one year): 8 hours a week of teaching and related activities, and 16 hours a week on self-directed study.
+Part-time (over two years): 4 hours a week of teaching and related activities, and 8 hours a week on self-directed study.
+
+Assessment
+Assessment will be through practical coursework, vivas, presentations and portfolios. The number of exams you take will depend on your optional module choices.
+
+Fees
+Full time course:
+Home Award Fee: 11500
+Home Module Fee (15 Credit): 958
+International Award Fee: 18000
+International Module Fee (15 Credit): 1500
+Part time course:
+Home Module Fee (15 Credit): 958
+Supplementary fee information:
+Funding and studentship opportunities are listed on the Scholarships and bursaries page.
+Find out more about funding and scholarships.
+Read about postgraduate funding.
+
+Features
+Professional accreditation
+This course is accredited by The Chartered Institute for IT (BCS).
+Study facilities
+You'll find everything you need for your studies on our Frenchay Campus, including PC labs for module and self-study, and access to virtual machines and cloud-based environments to build your experience of big data solutions.
+You'll have 24-hour access to the UWE Bristol library, as well as access to leading resources, specialist journals and publications through our online portal.
+Graduate students have a dedicated space on the main campus, with teaching rooms and informal areas. Each course has a student adviser who provides pastoral support and general advice.
+You'll also benefit from the University's enterprise zone, Future Space.
+Learn more about UWE Bristol's facilities and resources.
+Take a personalised virtual tour of the Computing facilities and experience what a typical day could look like here for you.
+
+Careers
+Careers / Further study
+Your knowledge of the latest data science methods and tools will put you in a strong position to secure work as a data scientist, business analyst, data engineer or develop a career path toward chief data officer.
+
+Life
+Postgraduate support: Our support includes access to facilities, study tools and career consultants, plus practical help to access everything from funding to childcare.
+Bristol: A stunning city for student living with all the qualities to make you want to stay.
+Sports, societies and activities: There is more to your experience here than study. Choose to make the most of it and try new things.
+Health and Wellbeing: We provide support in the way you need it.
+Campus and facilities: Discover our campuses and the wealth of facilities provided for our students.
+
+Page last updated: 17 February 2026
+
+Talk to a lecturer
+Get direct answers to your course questions.
+Request a call back.
+
+Contact us
+University of the West of England
+Frenchay Campus
+Coldharbour Lane
+Bristol
+BS16 1QY
+United Kingdom
+Switchboard: +44 (0)117 9656261
