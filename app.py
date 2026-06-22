@@ -8,8 +8,6 @@ from dotenv import load_dotenv
 from flask import Flask, jsonify, render_template, request
 from neo4j import GraphDatabase
 
-from embeddings import embed_text
-
 
 app = Flask(__name__)
 VECTOR_MIN_SCORE = 0.60
@@ -353,35 +351,23 @@ def answer_with_vector_groq(question: str) -> tuple[str, list[str]]:
     return format_model_answer(completion.choices[0].message.content), unique_sources(context_rows)
 
 
-def answer_auto(question: str, ready: dict[str, bool]) -> tuple[str, str, list[str]]:
-    if ready["groq"] and ready["vector"]:
-        try:
-            answer, sources = answer_with_vector_groq(question)
-            return (
-                answer,
-                f"Vector + Groq: {os.getenv('GROQ_MODEL', 'openai/gpt-oss-120b')}",
-                sources,
-            )
-        except Exception:
-            pass
 
-    if ready["groq"]:
-        try:
-            query_name = classify_question(question)
-            return (
-                answer_with_groq(question),
-                f"Groq graph chat: {os.getenv('GROQ_MODEL', 'openai/gpt-oss-120b')}",
-                [query_name.replace("_", " ").title()],
-            )
-        except Exception:
-            pass
+def answer_auto(question: str, ready: dict[str, bool]):
+    try:
+        response = answer_with_groq(question)
+        return (
+            response,
+            f"Groq graph chat: {os.getenv('GROQ_MODEL', 'openai/gpt-oss-120b')}",
+            [classify_question(question).replace("_", " ").title()],
+        )
+    except Exception:
+        query_name = classify_question(question)
+        return (
+            format_direct_answer(query_name, run_query(query_name)),
+            f"Direct graph answer: {query_name}",
+            [query_name.replace("_", " ").title()],
+        )
 
-    query_name = classify_question(question)
-    return (
-        format_direct_answer(query_name, run_query(query_name)),
-        f"Direct graph answer: {query_name}",
-        [query_name.replace("_", " ").title()],
-    )
 
 
 @app.get("/")
