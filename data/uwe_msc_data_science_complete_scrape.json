@@ -1,0 +1,185 @@
+{
+  "source_url": "https://courses.uwe.ac.uk/INB112/data-science",
+  "page_title": "MSc Data Science",
+  "institution": "UWE Bristol",
+  "page_last_updated": "17 February 2026",
+  "course_status": "Open for applications",
+  "overview": {
+    "entry_year": "2026/27",
+    "course_code": "INB112",
+    "application": "University",
+    "level": "Postgraduate",
+    "school": "School of Computing and Creative Technologies",
+    "campus": "Frenchay",
+    "duration": "September start - one year full-time; two years part-time; January start - one year full-time.",
+    "delivery": "Full-time; part-time; starts September and January",
+    "programme_leaders": [
+      "Dr Paul Matthews",
+      "Dr Mahmoud Elbattah"
+    ],
+    "accreditations_and_partnerships": [
+      "BCS, The Chartered Institute for IT",
+      "Future Space"
+    ],
+    "summary": "Work with us full or part time on our industry-focused data science master's, developing the skills you need to design and implement data science projects."
+  },
+  "about": {
+    "why_study_data_science": [
+      "Data science brings together data management, analytics and artificial intelligence.",
+      "Data scientists work with organisations to draw competitive or efficiency-related insights from their data.",
+      "The field is expected to make up at least a quarter of all digital jobs.",
+      "It has been highlighted as a major skills gap in the government's recent industrial strategy."
+    ],
+    "why_uwe_bristol": [
+      "The master's is designed for people looking to specialise or upskill in data science.",
+      "It equips students to apply data science techniques in their current role and organisation, or to progress into new opportunities.",
+      "Students learn the full data science pipeline: organisational requirements, ethical conduct, research study design, data engineering, gathering, transforming and cleaning small and large-scale data.",
+      "Students gain skills and tools to design and implement data science projects and programmes to solve real business and societal issues.",
+      "Students undertake exploratory analysis using statistics, machine learning and predictive modelling.",
+      "Students learn to present and communicate results to stakeholders and implement production workflows and solutions.",
+      "Students work on live data science projects using data and issues from their own company, where applicable, and industrial partners."
+    ],
+    "where_can_it_take_me": [
+      "The course was developed as part of the Institute of Coding's University Learners employability initiative.",
+      "It is designed to equip data scientists with skills needed by industry.",
+      "Career routes include data scientist, business analyst, data engineer and chief data officer."
+    ]
+  },
+  "entry": {
+    "entry_requirements": [
+      "Honours degree at 2:2 or equivalent in a relevant subject.",
+      "Experience with quantitative methods and/or coding is highly recommended.",
+      "Relevant subjects include Computer Science, IT or other computing subjects, Maths, Statistics, Engineering, quantitative subjects such as Physics and Chemistry, Business, Marketing, Economics, Psychology and Social Sciences.",
+      "Applicants who do not meet the grade requirements may be considered individually if they have at least 12 months relevant professional experience and/or equivalent qualifications."
+    ],
+    "personal_statement": "Applicants are required to complete a personal statement and answer the questions on the postgraduate application form within the personal statement tabs, keeping to the advised word count.",
+    "english_language_requirement": [
+      "International and EU applicants need a minimum IELTS Academic score of 6.5 overall with 5.5 in each component, or an approved equivalent.",
+      "UWE accepts a large number of UK and international qualifications in place of IELTS."
+    ],
+    "how_to_apply": [
+      "Postgraduate applications information is available from UWE.",
+      "International applications and key international deadline dates are available from UWE."
+    ],
+    "further_information": {
+      "admissions_email": "Admissions@uwe.ac.uk",
+      "telephone": "+44 (0)117 32 83333"
+    }
+  },
+  "structure": {
+    "content_note": "The optional modules listed are those most likely to be available, but they may be subject to change.",
+    "core_modules": [
+      "Programming for Data Science",
+      "Statistical Learning",
+      "Data Science Masters Project",
+      "Data Management Fundamentals",
+      "Process and Practice in Data Science",
+      "Integrative Team Project"
+    ],
+    "optional_modules": [
+      "Machine Learning and Predictive Analytics",
+      "Business Intelligence and Data Visualisation",
+      "Programming Data Intensive Applications",
+      "Scaling and Orchestration"
+    ],
+    "optional_module_rule": "Students take two optional modules.",
+    "part_time_note": "The listed structure is for full-time students only. Part-time students study the same modules but the delivery pattern is different.",
+    "course_change_note": "The University continually enhances the course in response to feedback and stakeholder input. Approved changes will be communicated to students."
+  },
+  "learning_and_teaching": [
+    "The course is taught through a mix of context, theory and hands-on practice.",
+    "Both individual and group learning activities are included.",
+    "Students study the role of a data scientist and areas such as ethical practice and data for sustainable development.",
+    "Students cover research methods, data gathering, exploratory data analysis, and programming principles including R, Python and HTML/Javascript.",
+    "Students learn statistical inference, modelling and analysis, machine learning and predictive analytics.",
+    "Students learn to store, process and analyse big data.",
+    "Students build skills in evidence-based communication, argumentation and data visualisation.",
+    "Students implement data science projects end to end using real data for business, health and sustainability problems.",
+    "Students gain exposure to current data science methods and tools.",
+    "Students take part in a substantial interdisciplinary group project.",
+    "Extracurricular opportunities include team competitions, data hackathons and paid projects for external clients through The Foundry.",
+    "Mentoring is available for self-organised student teams in data science competitions and hackathons."
+  ],
+  "study_time": {
+    "full_time": "Over one year: 8 hours a week of teaching and related activities, and 16 hours a week on self-directed study.",
+    "part_time": "Over two years: 4 hours a week of teaching and related activities, and 8 hours a week on self-directed study."
+  },
+  "assessment": [
+    "Practical coursework",
+    "Vivas",
+    "Presentations",
+    "Portfolios",
+    "Number of exams depends on optional module choices"
+  ],
+  "fees": {
+    "full_time_course": {
+      "home_award_fee_gbp": 11500,
+      "home_module_fee_15_credit_gbp": 958,
+      "international_award_fee_gbp": 18000,
+      "international_module_fee_15_credit_gbp": 1500
+    },
+    "part_time_course": {
+      "home_module_fee_15_credit_gbp": 958
+    },
+    "supplementary_fee_information": [
+      "Funding and studentship opportunities are listed on UWE's Scholarships and bursaries page.",
+      "More information is available on funding and scholarships.",
+      "Postgraduate funding information is available from UWE."
+    ]
+  },
+  "features": {
+    "professional_accreditation": "The course is accredited by BCS, The Chartered Institute for IT.",
+    "study_facilities": [
+      "Frenchay Campus PC labs for module and self-study.",
+      "Access to virtual machines and cloud-based environments to build big data solution experience.",
+      "24-hour access to the UWE Bristol library.",
+      "Access to specialist journals and publications through the online portal.",
+      "Dedicated graduate student space on the main campus with teaching rooms and informal areas.",
+      "Student adviser providing pastoral support and general advice.",
+      "Access to UWE's enterprise zone, Future Space.",
+      "Personalised virtual tour of Computing facilities."
+    ]
+  },
+  "careers": {
+    "careers_further_study": "Knowledge of current data science methods and tools should put graduates in a strong position to secure work as a data scientist, business analyst, data engineer or to develop a career path toward chief data officer.",
+    "career_roles": [
+      "Data scientist",
+      "Business analyst",
+      "Data engineer",
+      "Chief data officer"
+    ]
+  },
+  "life": [
+    {
+      "title": "Postgraduate support",
+      "description": "Support includes access to facilities, study tools and career consultants, plus practical help with funding and childcare."
+    },
+    {
+      "title": "Bristol",
+      "description": "A city for student living with qualities that may make students want to stay."
+    },
+    {
+      "title": "Sports, societies and activities",
+      "description": "There is more to the student experience than study, with opportunities to try new things."
+    },
+    {
+      "title": "Health and Wellbeing",
+      "description": "UWE provides support in the way students need it."
+    },
+    {
+      "title": "Campus and facilities",
+      "description": "Information about campuses and facilities provided for students."
+    }
+  ],
+  "talk_to_a_lecturer": {
+    "title": "Talk to a lecturer",
+    "description": "Get direct answers to your course questions.",
+    "action": "Request a call back"
+  },
+  "contact_us": {
+    "institution": "University of the West of England",
+    "campus": "Frenchay Campus",
+    "address": "Coldharbour Lane, Bristol, BS16 1QY, United Kingdom",
+    "switchboard": "+44 (0)117 9656261"
+  }
+}
